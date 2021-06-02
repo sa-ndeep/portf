@@ -34,6 +34,6 @@ translate==3.5.0
 translator==0.0.9
 translators==4.6.2
 tweepy==3.8.0
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.21
 win32-setctime==1.0.1
